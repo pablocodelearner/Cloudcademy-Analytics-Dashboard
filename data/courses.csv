@@ -1,0 +1,31 @@
+course_id,course_title,category,level,duration
+1,Introduction to Cloud Computing,cloud computing,beginner,90
+2,Google Cloud for Beginners,google cloud,beginner,40
+3,DevOps on AWS,aws,beginner,36
+4,Cloud Solutions Architecture on AWS,aws,beginner,48
+5,Advanced Kubernetes,kubernetes,advanced,40
+6,Kubernetes Intermediate,kubernetes,intermediate,16
+7,Kubernetes for Beginners,kubernetes,beginner,13
+8,Security in Google Cloud,google cloud,intermediate,40
+9,Introduction to AWS,aws,beginner,40
+10,Introduction to Azure,azure,beginner,40
+11,Azure Solutions Architect Certification,azure,beginner,40
+12,Google Cloud Digital Leader Training,google cloud,beginner,36
+13,Machine Learning Operations with AWS,aws,advanced,48
+14,Google Cloud Certification: Cloud DevOps Engineer,google cloud,advanced,28
+15,Certified Kubernetes Application Developer,kubernetes,advanced,21
+16,Kubernetes for Absolute Beginners with Labs,kubernetes,beginner,40
+17,AWS MasterClass: DevOps with CLI,aws,intermediate,36
+18,Microsoft Azure: Zero to Hero Guide,azure,beginner,40
+19,Serverless Computing on AWS,aws,intermediate,24
+20,Cloud Migration Strategies with Google Cloud,google cloud,intermediate,30
+21,Introduction to DevOps Practices,devops,beginner,32
+22,Scaling Applications on Kubernetes,kubernetes,advanced,25
+23,AWS Lambda Deep Dive,aws,advanced,22
+24,Automating Infrastructure with Terraform,devops,intermediate,20
+25,Azure DevOps Solutions,azure,intermediate,18
+26,Google Cloud Security Essentials,google cloud,beginner,12
+27,AI and ML on AWS,aws,intermediate,26
+28,Building Microservices on Google Cloud,google cloud,advanced,34
+29,Introduction to Docker,devops,beginner,16
+30,Advanced Serverless Architectures,aws,advanced,28

@@ -1,0 +1,7 @@
+category,total_enrollments,completed_enrollments,completion_rate
+"google cloud",440,186,0.42273
+azure,237,92,0.38819
+aws,557,222,0.39856
+devops,201,77,0.38308
+kubernetes,350,143,0.40857
+"cloud computing",65,24,0.36923

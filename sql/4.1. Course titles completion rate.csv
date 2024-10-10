@@ -1,0 +1,31 @@
+course_title,total_enrollments,completed_enrollments,completion_rate
+"Google Cloud Digital Leader Training",64,26,0.40625
+"Introduction to Azure",54,23,0.42593
+"Introduction to AWS",70,37,0.52857
+"Cloud Solutions Architecture on AWS",71,26,0.36620
+"Serverless Computing on AWS",66,29,0.43939
+"Google Cloud Security Essentials",62,22,0.35484
+"AWS Lambda Deep Dive",50,17,0.34000
+"Automating Infrastructure with Terraform",63,18,0.28571
+"Certified Kubernetes Application Developer",65,32,0.49231
+"Introduction to Docker",66,25,0.37879
+"Kubernetes for Beginners",61,17,0.27869
+"Kubernetes for Absolute Beginners with Labs",46,16,0.34783
+"Azure Solutions Architect Certification",64,22,0.34375
+"Advanced Kubernetes",52,20,0.38462
+"Cloud Migration Strategies with Google Cloud",72,35,0.48611
+"Scaling Applications on Kubernetes",55,24,0.43636
+"DevOps on AWS",63,27,0.42857
+"Security in Google Cloud",76,33,0.43421
+"Azure DevOps Solutions",53,22,0.41509
+"Machine Learning Operations with AWS",54,22,0.40741
+"Kubernetes Intermediate",71,34,0.47887
+"Introduction to Cloud Computing",65,24,0.36923
+"Microsoft Azure: Zero to Hero Guide",66,25,0.37879
+"AI and ML on AWS",65,24,0.36923
+"Introduction to DevOps Practices",72,34,0.47222
+"Google Cloud Certification: Cloud DevOps Engineer",54,19,0.35185
+"Advanced Serverless Architectures",55,22,0.40000
+"Building Microservices on Google Cloud",58,31,0.53448
+"Google Cloud for Beginners",54,20,0.37037
+"AWS MasterClass: DevOps with CLI",63,18,0.28571
